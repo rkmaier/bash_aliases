@@ -10,4 +10,5 @@ Some useful bash aliases:
 Create or add .bash_aliases file your profile
 
 # About
-Based on https://github.com/algotech/dotaliases
+Based on https://github.com/algotech/dotaliases,
+https://laravel-news.com/bash-aliases
