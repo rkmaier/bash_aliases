@@ -3,6 +3,7 @@ Some useful bash aliases:
  - General utility stuff
  - Docker
  - NPM
+ - Laravel
  - Git
  - Composer
 
