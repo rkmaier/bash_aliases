@@ -2,8 +2,10 @@
 #Custom aliases
 
 alias projects="cd ~/Projects"
-
+alias home="cd ~/"
 #Docker
+
+alias d="docker"
 alias dc="docker-compose"
 alias ds="docker ps"
 
@@ -22,6 +24,9 @@ alias p="phpunit"
 alias pf="phpunit --filter "
 alias art="php artisan"
 alias migrate="php artisan migrate"
+alias cda="composer dump-autoload"
+alias cdao="composer dump-autoload -o"
+alias tinker='php artisan tinker'
 
 #Git
 
