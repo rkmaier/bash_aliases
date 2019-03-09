@@ -12,6 +12,17 @@ alias dcu="docker-compose up"
 alias dcd="docker-compose down"
 
 
+#Laravel DEV
+
+alias pa="php artisan"
+alias gl="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+alias wip="git add . && git commit -m 'wip'"
+alias nah="git reset --hard && git clean -df"
+alias p="phpunit"
+alias pf="phpunit --filter "
+alias art="php artisan"
+alias migrate="php artisan migrate"
+
 #Git
 
 alias gp="git pull"
@@ -132,3 +143,4 @@ function extract() {
 	  	;;
 	esac
 }
+
