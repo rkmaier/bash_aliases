@@ -1,4 +1,3 @@
-
 #Custom aliases
 
 alias projects="cd ~/Projects"
