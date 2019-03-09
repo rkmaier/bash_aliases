@@ -9,4 +9,5 @@ Some useful bash aliases:
 # Installation
 Create or add .bash_aliases file your profile
 
+# About
 Based on https://github.com/algotech/dotaliases
