@@ -1,6 +1,6 @@
 #Custom aliases
 
-alias projects="cd ~/Projects"
+alias pj="cd ~/Projects"
 alias home="cd ~/"
 #Docker
 
